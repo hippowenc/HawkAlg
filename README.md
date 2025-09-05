@@ -9,7 +9,10 @@ The Quantitative algorithm for the Hawk Investing Club at Baylor University
 - We will likely install other software later, ex: Database, frontend engine, but for now that should be it.
 
 ## Getting Started:
-- Python: https://www.youtube.com/watch?v=rfscVS0vtbw
-- git: https://www.youtube.com/watch?v=8JJ101D3knE
+These videos are not comprehensive but should help get you started. I'd recommend 
+- Python: https://www.youtube.com/watch?v=rfscVS0vtbw , python cheat sheet linked here: https://www.reddit.com/r/learnpython/comments/11eg5af/beginners_python_cheat_sheets_updated/
+- git: https://www.youtube.com/watch?v=8JJ101D3knE , https://education.github.com/git-cheat-sheet-education.pdf
+- Missing semester: https://missing.csail.mit.edu/ this video is from MIT and focuses on teaching you everything about CS that isn't taught in school. I'd the Command line and git lectures are both helpful
+  
 
  

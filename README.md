@@ -9,7 +9,7 @@ The Quantitative algorithm for the Hawk Investing Club at Baylor University
 - We will likely install other software later, ex: Database, frontend engine, but for now that should be it.
 
 ## Getting Started:
-Python: https://www.youtube.com/watch?v=rfscVS0vtbw
+Python: https://www.youtube.com/watch?v=rfscVS0vtbw \n
 git: https://www.youtube.com/watch?v=8JJ101D3knE
 
  
